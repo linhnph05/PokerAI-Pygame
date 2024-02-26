@@ -7,8 +7,12 @@ Technologies/Techniques: Pygame, Monte Carlo
 
 Clone the repo to your local computer
 ```
-git clone https://github.com/linhnph05/Pygame-Poker.git
-cd Pygame-Poker
+git clone https://github.com/linhnph05/PokerAI-Pygame.git
+cd PokerAI-Pygame
+```
+Install required packages
+```
+pip3 install -r requirements.txt
 ```
 
 Run main.py file
